@@ -1,0 +1,49 @@
+[ZY2206345@cu07 utility-bins]$ ./smips -b ../simulator/procs/ControlHazardOnly/p                                                                                                                                                             cMsg_epoch.bsv -c all --run
+
+Building /home/ZY2206345/lab_template/Lab3/simulator/procs/ControlHazardOnly/pcM                                                                                                                                                             sg_epoch.bsv
+
+Compiling /home/ZY2206345/lab_template/Lab3/programs/src/qsort
+Running qsort on ControlHazardOnly/pcMsg_epoch.bsv
+pkill: killing pid 127154 failed: Operation not permitted
+Cycles = 46874
+Insts  = 21628
+PASSED
+SceMi Service thread finished!
+
+Compiling /home/ZY2206345/lab_template/Lab3/programs/src/median
+Running median on ControlHazardOnly/pcMsg_epoch.bsv
+pkill: killing pid 127154 failed: Operation not permitted
+Cycles = 14681
+Insts  = 6873
+PASSED
+SceMi Service thread finished!
+
+Compiling /home/ZY2206345/lab_template/Lab3/programs/src/vvadd
+Running vvadd on ControlHazardOnly/pcMsg_epoch.bsv
+pkill: killing pid 127154 failed: Operation not permitted
+Cycles = 6339
+Insts  = 3020
+PASSED
+SceMi Service thread finished!
+
+Compiling /home/ZY2206345/lab_template/Lab3/programs/src/towers
+Running towers on ControlHazardOnly/pcMsg_epoch.bsv
+pkill: killing pid 127154 failed: Operation not permitted
+Cycles = 19310
+Insts  = 9909
+PASSED
+SceMi Service thread finished!
+
+Compiling /home/ZY2206345/lab_template/Lab3/programs/src/print
+Running print on ControlHazardOnly/pcMsg_epoch.bsv
+pkill: killing pid 127154 failed: Operation not permitted
+chello world
+dhello world
+25
+Cycles = 775
+Insts  = 369
+PASSED
+SceMi Service thread finished!
+
+Compiling /home/ZY2206345/lab_template/Lab3/programs/src/assembly/smipsv1_addiu.                                                                                                                                                             S
+Running assemb
